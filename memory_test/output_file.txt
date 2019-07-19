@@ -1,0 +1,16 @@
+size of int = 4 bytes
+memory address = 0x0060FEE4
+size of int = 4 bytes
+memory address = 0x0060FEE0
+size of int = 4 bytes
+memory address = 0x0060FEDC
+size of char[2] = 2 bytes
+memory address = 0x0060FEDA
+size of char[2] = 2 bytes
+memory address = 0x0060FED8
+size of char = 1 bytes
+memory address = 0x0060FED7
+size of char = 1 bytes
+memory address = 0x0060FED6
+size of char = 1 bytes
+memory address = 0x0060FED5
